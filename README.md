@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced Application Support Engineer 🛠️ <br>Aspiring Machine Learning Practitioner 🤖 <br>Proficient in Integrating Data into AI Systems 📊🧠"<br><br><br>
+💼 IT Analyst at Tata Consultancy Services | 🛠️ Experienced Application Support Engineer | 🤖 Machine Learning Enthusiast | 📊 Passionate About Data Integration in AI 📊🧠"<br><br><br>
 
 
 ## 🌐 Socials:
