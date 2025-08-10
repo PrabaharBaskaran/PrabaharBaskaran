@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced Application Support Engineer 🛠️ | Emerging Machine Learning Enthusiast 🤖 | Skilled in Data Integration for AI Solutions 📊🧠
+🛠️ Experienced Application Support Engineer | 🤖 Machine Learning Enthusiast | 📊 Passionate About Data Integration in AI
 
 Driven IT professional with hands-on experience in application support and a growing passion for machine learning. Recently explored and implemented techniques for integrating data into AI-driven systems, bridging operational support with intelligent solutions."<br><br><br>
 
